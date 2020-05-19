@@ -1,0 +1,1 @@
+# Automatización de Pruebas para dispositivos móviles con appium
